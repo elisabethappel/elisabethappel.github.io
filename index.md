@@ -26,9 +26,6 @@ I completed a masters degree in urban planning at the NYU Wagner Graduate School
 <b>[State of New York City's Housing and Neighborhoods in 2021](https://furmancenter.org/stateofthecity/state-of-the-city-2021/)</b> (Digital Report)
 <br>with Hayley Raetz and Ryan Brenner
 
-### Data Visualisations ###
-
-I built [this map](https://furmancenter.shinyapps.io/officehotelmap/).
 
 ***
 

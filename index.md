@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a data analytics developer at [Mathematica](https://https://mathematica.org/).
+I am currently a data analytics developer at [Mathematica](https://mathematica.org/).
 
 Prior to Mathematica, I worked at the NYU Furman Center where I contributed to research, data analysis and writing on range of urban-related policy issues including land use regulation, affordable housing finance, and the Community Reinvestment Act. 
 

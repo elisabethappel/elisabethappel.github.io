@@ -20,6 +20,8 @@ I completed a masters degree in urban planning at the NYU Wagner Graduate School
 
 ### Other Publications and Presentations ###
 
+<b>[Benefit Redemption Patterns in the Supplemental Nutrition Assistance Program in Fiscal Year 2022](https://www.fns.usda.gov/research/snap/benefit-redemption-patterns/2022)</b> (2025) <br>with Laura Castner, Leah Shiferaw, Andrew Wen, and Clare Wolfendale 
+
 <b>[Measuring leadership in early care and education: The ExCELS measure](https://acf.gov/sites/default/files/documents/opre/ExCELS-Measure-TechReport_508v2.pdf)</b> (OPRE Report 2023-272)<br>with Gretchen Kirby, Lizabeth Malone, Yange Xue, Anne Douglass, Katie Gonzalez, Scilla Albanese, Tutrang Nguyen, and Reggie Gilliard
 
 <b>[Early Care and Education Leadership Study (ExCELS) Data User’s Guide](https://www.mathematica.org/publications/early-care-and-education-leadership-study-excels-data-users-guide)</b> (OPRE Report 2023-130)
